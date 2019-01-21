@@ -3,4 +3,4 @@ People learning new concepts can often generalize successfully from just a singl
 
 ## Reference
 
-1. [Ruslan Salakhutdinov]( http://clm.utexas.edu/compjclub/wp-content/uploads/2016/02/lake2015.pdf )
+1. [Josh Tenenbaum]( http://clm.utexas.edu/compjclub/wp-content/uploads/2016/02/lake2015.pdf )
